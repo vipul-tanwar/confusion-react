@@ -1,0 +1,119 @@
+[33mcommit efbfec06a3d8773ebc2affc6d62e6a812579260e[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Fri Jun 26 13:06:36 2020 +0530
+
+    Combining Reducers
+
+[33mcommit 894f75d68539fea33fd70df632b6aca5a60fbe3a[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Thu Jun 25 15:59:38 2020 +0530
+
+    Assignment 3: React Forms and Redux
+
+[33mcommit 838ab5f4b6dba610134da36db862356d5f0c39ab[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Wed Jun 24 15:36:07 2020 +0530
+
+    React Redux Form Validation
+
+[33mcommit 45eeec238deafa186f1223b88ba527f2ac24490c[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Wed Jun 24 14:33:21 2020 +0530
+
+    React Redux Form
+
+[33mcommit ed1caaa3440eb3243a85e9db3d552e2794046c18[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Wed Jun 24 14:03:38 2020 +0530
+
+    Introduction to Redux
+
+[33mcommit 3af7c74dee14119c2d4f1017858e14e831bfd628[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Sun Jun 21 21:14:25 2020 +0530
+
+    Uncontrolled Forms
+
+[33mcommit 0dd82a71fa66333df2674a08cf27f4b44e66928b[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Sun Jun 21 16:36:58 2020 +0530
+
+    Controlled Form Validation
+
+[33mcommit 977097dcee72ab58b5e2e84f13784f10bfe7754f[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Sun Jun 21 16:05:34 2020 +0530
+
+    Controlled Forms
+
+[33mcommit 5943ad455448016745e401dea378495ce5b51ca0[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Sat Jun 20 22:27:50 2020 +0530
+
+    Assignment 2: React Router and Single Page Applications
+
+[33mcommit a1bac1b5e46bf7d164a1b9476d6c759d19657770[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Thu Jun 18 18:27:15 2020 +0530
+
+    Single Page Applications Part 2
+
+[33mcommit 7e3c03abb3f4eed898d7cfbe40d25a683115e2f6[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Thu Jun 18 15:58:31 2020 +0530
+
+    Single Page Applications Part 1
+
+[33mcommit 50c924d2407d1d6d189ab0abc314ef9a4dc56f0b[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Thu Jun 18 15:20:04 2020 +0530
+
+    React Router
+
+[33mcommit c1d4905e5fb833a48e68430b2694c66999ba32d1[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Wed Jun 17 18:08:17 2020 +0530
+
+    Header and Footer
+
+[33mcommit 278190cc7d0b440b819400fb96917ef931e56042[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Wed Jun 17 17:30:38 2020 +0530
+
+    Functional Components
+
+[33mcommit cdd5c87c452455e1989d7042cc42433bb1544277[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Sat May 30 15:30:23 2020 +0530
+
+    Presentational and Container Components
+
+[33mcommit db5e83b441da7c8fd56711c08df4a6ecb8fa8c88[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Thu May 28 20:35:56 2020 +0530
+
+    Assignment 1: React Components
+
+[33mcommit 4e32a9f0e67ba1691fcb6b3d6438df589d45ddd7[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Mon May 11 14:18:08 2020 +0530
+
+    React Components Part 2
+
+[33mcommit 5d9f630bc00841924d6bd113bc75c39426ead547[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Mon May 11 11:36:48 2020 +0530
+
+    React Components Part 1
+
+[33mcommit 311034b1e59cbd40fc85e2f6112d5305eb9049ea[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Mon May 11 11:11:45 2020 +0530
+
+    Configuring React
+
+[33mcommit 5d359246bef0893285825117bebae3e4afe797ca[m
+Author: Vipul Tanwar <vipultanwar45@gmail.com>
+Date:   Sun May 10 20:58:19 2020 +0530
+
+    Initialize project using Create React App
