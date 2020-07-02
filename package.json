@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "bootstrap-social": "^5.1.1",
+    "cross-fetch": "^2.1.0",
     "font-awesome": "^4.7.0",
     "react-redux": "^5.0.7",
     "react-redux-form": "^1.16.8",
